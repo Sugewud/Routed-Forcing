@@ -48,13 +48,10 @@ The method uses a causal 1.3B student with four sampling steps per block. In the
 If you find our work helpful, please consider citing our paper.
 
 ```bibtex
-@misc{su2026routedforcing,
+@article{su2026routedforcing,
   title={Where and When to Force: Routed Forcing for Streaming Avatars},
-  author={Zihan Su and Siwen Lu and Junhao Zhuang and Zeyue Xue and Haoyang Huang and Guanghao Li and Xiaofeng Tan and Chun Yuan and Nan Duan},
-  year={2026},
-  eprint={2609.30963},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2609.30963}
+  author={Su, Zihan and Lu, Siwen and Zhuang, Junhao and Xue, Zeyue and Huang, Haoyang and Li, Guanghao and Tan, Xiaofeng and Yuan, Chun and Duan, Nan},
+  journal={arXiv preprint arXiv:2609.30963},
+  year={2026}
 }
 ```
