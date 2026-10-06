@@ -1,7 +1,7 @@
 <h2 align="center"><strong>Where and When to Force:<br>Routed Forcing for Streaming Avatars</strong></h2>
 
 <p align="center">
-  <a href="https://github.com/Sugewud">Zihan Su</a><sup>1,2*</sup>,
+  <a href="https://github.com/Zihan-Su">Zihan Su</a><sup>1,2*</sup>,
   Siwen Lu<sup>1*</sup>,
   Junhao Zhuang<sup>2†</sup>,
   Zeyue Xue<sup>2</sup>,
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sugewud.github.io/routed-forcing/"><img src="https://img.shields.io/badge/-ProjectPage-black?logo=github&amp;style=flat-square" alt="Project Page"></a> &nbsp;
+  <a href="https://zihan-su.github.io/routed-forcing/"><img src="https://img.shields.io/badge/-ProjectPage-black?logo=github&amp;style=flat-square" alt="Project Page"></a> &nbsp;
   <a href="https://arxiv.org/abs/2609.30963"><img src="https://img.shields.io/badge/Paper-arXiv-b5212f.svg?style=flat-square&amp;logo=arxiv" alt="Paper on arXiv"></a>
 </p>
 
